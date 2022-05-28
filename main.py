@@ -1,6 +1,15 @@
 class Student:
     # [assignment] Skeleton class. Add your code here
-    def __init__(self):
+    def __init__(self,name,age,track, score):
+        name="string"
+        age="int"
+        track="string"
+        score="float"
+        return: self.name="name"
+        return: self.age="age"
+        return: self.track="score"
+        
+       def
         pass
 
 
